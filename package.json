@@ -1,0 +1,15 @@
+{
+  "name": "exam-volume-analytics",
+  "version": "1.0.0",
+  "description": "takes cerner exam data and then does things",
+  "main": "index.js",
+  "scripts": {
+    "test": "test-go"
+  },
+  "repository": {
+    "type": "git",
+    "url": "exam-volume-analytics"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -130,4 +130,5 @@ dist
 .pnp.*
 
 # test data
-mock-data.json
+mock-data.js
+test.txt

@@ -16,6 +16,8 @@ Take dept exam volume:
 		- Priority
 		- Ordering dept
 
+		CHANGES
+
 
 #### TODO:
 
